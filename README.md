@@ -35,7 +35,7 @@
 - [x] Valve A 7 seconds open close control 
 - [x] Valve B 5 seconds open close control 
 - [x] Elapse time tracking
-- [x] Trigger Alerm for after 12 hours
+- [x] Trigger Alerm after 12 hours elapse time
 - [x] The audible alarm to go off when the car is running and its been over 12 hours since either valve has been closed.
 
 
