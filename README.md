@@ -5,7 +5,8 @@
 
 
 **Hardware Specifications:**
-    ![layout](Pins on 4 channel relay.jpg)
+  Here is the picture of the customized control board
+  ![layout](control_board.jpg)
 
 **Project Description:**
 
